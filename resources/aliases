@@ -1,0 +1,8 @@
+alias ..="cd .."
+alias ...="cd ../.."
+
+alias cc="cd ~/code"
+alias ww="cd ~/code/winddle"
+alias wp="cd ~/code/winddle-peeps"
+
+alias db="./bin/db"

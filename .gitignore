@@ -1,0 +1,6 @@
+*.log
+*.box
+*.idea/
+Urocyon.yaml
+resources/Urocyon.local.yaml
+.vagrant

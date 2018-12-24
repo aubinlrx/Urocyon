@@ -1,0 +1,26 @@
+---
+name: Urocyon
+box: urocyon
+hostname: urocyon.dev
+ip: 192.168.10.10
+memory: 4096
+cpus: 2
+
+folders:
+  - map: ~/code,
+    to: /home/vagrant/code
+
+mysql57:
+  root_password: root
+  username: winddle
+  password: winddle
+
+ruby:
+  version: 2.5.1
+
+redis: true
+nodejs: true
+
+etc_hosts:
+  - ip_address: 8.8.8.8
+    host_name: google.com
