@@ -4,3 +4,5 @@
 Urocyon.yaml
 resources/Urocyon.local.yaml
 .vagrant
+after.sh
+aliases
